@@ -1,0 +1,22 @@
+.reg {
+    background-color: lightcoral;
+}
+.reg.one,
+.reg.five {
+    font-size: 24px;
+    font-weight: 500;
+}
+.reg.three {
+    font-size: 32px;
+    font-weight: 535;
+}
+.diff#two{
+    color: blue;
+    font-size: 48px;
+    font-weight: 540;
+} 
+.diff#four{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 32px;
+}
