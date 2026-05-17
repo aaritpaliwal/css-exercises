@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-element{
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 32px;
+}
+#third{
+    font-size: 24px;
+}
+#fourth{
+    background-color: rgb(112, 210, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
